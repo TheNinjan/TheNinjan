@@ -1,14 +1,15 @@
 <h1 align="center">Hi there! 👋 I'm Niranjan Solanki</h1>
 <h3 align="center">A passionate MERNSTACK Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theninjan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=theninjan" alt="GitHub Profile Trophy" />
   </a>
+</p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=theninjan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 🔭 I’m currently working remotely with **HashedBit Innovations, Gurugram HR**.
@@ -20,7 +21,8 @@
 - 📫 You can reach me at **theninjanofficial@gmail.com**.
 
 - 📄 You can view my resume [here](https://drive.google.com/drive/u/0/home).
-
+<br/>
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="text-decoration: none;">
   <a href="https://linkedin.com/in/theninjan" target="_blank">
@@ -35,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
+<br/>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="text-decoration: none;"> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -64,3 +66,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theninjan&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
