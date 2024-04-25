@@ -20,7 +20,7 @@
 
 - 📫 You can reach me at **theninjanofficial@gmail.com**.
 
-- 📄 You can view my resume [here](https://drive.google.com/drive/u/0/home).
+- 📄 You can view my resume [here](https://drive.google.com/file/d/1u37IAVwxSMePvsodyyOo9abco07pUoJo/view?usp=sharing).
 <br/>
 <br/>
 <h3 align="center">Connect with me:</h3>
