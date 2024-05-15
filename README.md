@@ -25,15 +25,15 @@
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="text-decoration: none;">
-  <a href="https://linkedin.com/in/theninjan" target="_blank">
+  <a href="https://linkedin.com/in/theninjan" target="">
     <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-  <a href="https://twitter.com/Niranjansolan12" target="_blank">
+  <a href="https://twitter.com/the_ninjan" target="">
     <img src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=730&crop=1" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-  <a href="https://www.instagram.com/niranjan_singh.1/" target="_blank">
+  <a href="https://www.instagram.com/niranjan_singh.1/" target="">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
